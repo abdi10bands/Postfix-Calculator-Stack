@@ -1,0 +1,265 @@
+Script started on Sun 13 Sep 2020 12:56:53 AM PDT
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[?1034h[verdi006@empress HW1P1_stack]$ ex./a.ou[2P2345./a.ou[2P722+./a.oug++  stack.cpp client1.cexitg++  stack.cpp client1.cpp
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ g++  stack.cpp client1.cexit./a.ou[2P2345./a.out
+type a postfix expression: 34+
+STACK:---------
+3
+--------------
+STACK:---------
+4
+3
+--------------
+STACK:---------
+7
+--------------
+The result is: 
+7
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 345+*
+STACK:---------
+3
+--------------
+STACK:---------
+4
+3
+--------------
+STACK:---------
+5
+4
+3
+--------------
+STACK:---------
+9
+3
+--------------
+STACK:---------
+27
+--------------
+The result is: 
+27
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ ./a.oug++  stack.cpp client1.c./a.out[K
+type a postfix expression: 722+-
+STACK:---------
+7
+--------------
+STACK:---------
+2
+7
+--------------
+STACK:---------
+2
+2
+7
+--------------
+STACK:---------
+4
+7
+--------------
+STACK:---------
+3
+--------------
+The result is: 
+3
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ ./a.oug++  stack.cpp client1.c./a.out[K
+type a postfix expression: 34+56++++++++++++++++++++++++++
+STACK:---------
+3
+--------------
+STACK:---------
+4
+3
+--------------
+STACK:---------
+7
+--------------
+STACK:---------
+5
+7
+--------------
+STACK:---------
+6
+5
+7
+--------------
+STACK:---------
+11
+7
+--------------
+STACK:---------
+18
+--------------
+The result is: 
+18
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 12+34*45+-+
+STACK:---------
+1
+--------------
+STACK:---------
+2
+1
+--------------
+STACK:---------
+3
+--------------
+STACK:---------
+3
+3
+--------------
+STACK:---------
+4
+3
+3
+--------------
+STACK:---------
+12
+3
+--------------
+STACK:---------
+4
+12
+3
+--------------
+STACK:---------
+5
+4
+12
+3
+--------------
+STACK:---------
+9
+12
+3
+--------------
+STACK:---------
+3
+3
+--------------
+STACK:---------
+6
+--------------
+The result is: 
+6
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 1234567891234
+STACK:---------
+1
+--------------
+STACK:---------
+2
+1
+--------------
+STACK:---------
+3
+2
+1
+--------------
+STACK:---------
+4
+3
+2
+1
+--------------
+STACK:---------
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+6
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+7
+6
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+8
+7
+6
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+9
+8
+7
+6
+5
+4
+3
+2
+1
+--------------
+STACK:---------
+1
+9
+8
+7
+6
+5
+4
+3
+2
+1
+--------------
+Error: Overflow. Too many operands.]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ ./a.out
+type a postfix expression: +
+Error: Underflow, Too few operands ]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3+
+STACK:---------
+3
+--------------
+Error: Underflow, Too few operands ]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3#
+STACK:---------
+3
+--------------
+ Error s occured :Invalid items detected]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ 2345+
+bash: 2345+: command not found
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ 2345./a.out
+type a postfix expression: ^[2345+
+STACK:---------
+2
+--------------
+STACK:---------
+3
+2
+--------------
+STACK:---------
+4
+3
+2
+--------------
+STACK:---------
+5
+4
+3
+2
+--------------
+STACK:---------
+9
+3
+2
+--------------
+The result is: 
+9
+incomplete expression 
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW1/HW1P1_stack[verdi006@empress HW1P1_stack]$ exit
+exit
+
+Script done on Sun 13 Sep 2020 01:02:15 AM PDT
