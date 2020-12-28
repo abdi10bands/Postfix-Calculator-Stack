@@ -1,13 +1,7 @@
-//CS311 Yoshii 
-//INSTRUCTION:
-//Stack class header file template based on Notes-1
-//You must complete the ** parts and then complete stack.cpp
-//EMACS HINT:
-//  control-S does searches
-//  Tab on each line will indent perfectly for C++
+
 
 // =======================================================
-// HW#: HW1P1 stack
+//  stack
 // Your name: Abdiel Verdin
 // Compiler:  g++ 
 // File type: headher file stack.h
